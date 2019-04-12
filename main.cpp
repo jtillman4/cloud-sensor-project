@@ -25,7 +25,7 @@ string* getLastLine(ifstream& in)
 
 int main()
 {
-    ifstream file("putty.log");
+    ifstream file("putty.txt");
     string *line;
     if (file)
     {
