@@ -42,7 +42,7 @@ def animate(i):
     counter = counter + 1
     extra.append(dataTime.strftime("%H:%M"))
 
-    with open("putty.log", "rb") as f:
+    with open("putty.txt", "rb") as f:
         f.seek(-2, os.SEEK_END)     # Jump to the second last byte.
         while f.read(1) != b"\n":   # Until EOL is found...
             f.seek(-2, os.SEEK_CUR) # ...jump back the read byte plus one more.
