@@ -14,3 +14,5 @@ I could not include the graphin_gui.exe file because the file size is a tiny bit
 Here is the link to download it directly 
 
 https://drive.google.com/drive/folders/1gcCXlwNSjELuIJRXDdvKjLg7NdW7p2TO?usp=sharing
+
+I have also added the user manual for your consideration just in case.
