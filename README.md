@@ -8,3 +8,6 @@ This also includes the Graphing GUI I created (graphing_gui.py) that reads the s
 Included is also Sensor_Project.ino which is the Arduino Uno code that our cloud sensor is running.
 
 The putty.log file is just an example log file I added so that you can test the programs
+
+I could not include the exe files because the file size is a tiny bit too large for github.
+Here is the link to download them directly 
